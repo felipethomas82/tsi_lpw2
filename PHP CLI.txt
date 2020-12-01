@@ -1,0 +1,31 @@
+PHP CLI - Command Line Interface
+
+php -v
+#Exibe a versão do PHP
+
+php -h
+#Help resumido do PHP CLI
+
+man php
+#Manual do PHP
+
+php -i
+#Retorna o que tem no PHP.ini - O mesmo que usar o phpinfo()
+
+php -m
+#retorna os modulos instalados
+
+php -r
+#Roda comandos PHP
+
+php nome_arquivo.php
+#Executa o código que estiver dentro do arquivo
+
+php -S
+#Roda um web-server a partir da pasta em que estiver
+
+php -a
+#abre o shell interativo
+
+
+
